@@ -19,6 +19,7 @@ console.log(età_passeggiero, numero_km);
 // calcolare il prezzo del biglietto
 let prezzo_biglietto_intero = numero_km * 0.21
 let prezzo_finale = prezzo_biglietto_intero
+console.log(prezzo_finale)
 
 //sconti
 
